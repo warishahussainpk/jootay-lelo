@@ -6,7 +6,8 @@ PAGES
 1. index.html — branded landing page, featured products, editorial section, color collection and newsletter
 2. shop.html — product catalog, filters, wishlist, add-to-bag and persistent localStorage cart
 3. about.html — brand story, manifesto and animated statistics
-4. contact.html — inquiry form with JS validation, FAQ accordion and Google Maps
+4. product.html - clickable product detail pages with size selection, pricing, description and add-to-bag
+5. contact.html — inquiry form with JS validation, FAQ accordion and Google Maps
 
 TECHNICAL REQUIREMENTS
 HTML:
